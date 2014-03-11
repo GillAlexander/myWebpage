@@ -1,0 +1,1 @@
+Home bar = 430 x 76 px

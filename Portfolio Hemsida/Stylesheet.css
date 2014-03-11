@@ -1,0 +1,39 @@
+body {
+	background-color: #663366;
+}
+div {
+	margin: none;
+}
+h1 {
+	font-family: Magneto;
+	color: #cc33cc;
+	size: 100px;
+	text-shadow: 0px 10px 10px rgba(0, 0, 0, 1);
+}
+
+#menyLinks > a {
+	text-decoration: none;
+	color: #cc33cc;
+	display: inline-block;
+	text-align: center;
+	margin-left: 190px;
+	margin-bottom: 10px;
+	margin-top: 15px;
+}
+#menyLinks > a > h2 {
+	margin:0px;
+}
+#meny {
+	display: block-inline;
+}
+#purpleBar {
+	margin-left: 200px;
+}
+
+
+#leftSide{
+	color: aqua;
+	background-image: url(../purple-backgrounds-for-powerpoint.jpg);
+	border: 1px solid black;
+	display: inline-block;
+}
